@@ -1,4 +1,6 @@
 # Lab1Web
+### NAMA  : Muhammad Rifqi aziz # 
+### KELAS : TI.22.A.1
 # Langkah-langkah Praktikum
 Persiapan membuka VSCode dan Browser.
 
